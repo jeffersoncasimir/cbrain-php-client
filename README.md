@@ -21,11 +21,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com//aces/cbrain-php-client.git"
+      "url": "https://github.com/aces/cbrain-php-client.git"
     }
   ],
   "require": {
-    "aces/cbrain-php-client": "master"
+    "aces/cbrain-php-client": "dev-main"
   }
 }
 ```
